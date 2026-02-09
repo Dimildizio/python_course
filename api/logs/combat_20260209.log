@@ -1,0 +1,114 @@
+2026-02-09 22:31:02 - INFO - ============================================================
+2026-02-09 22:31:02 - INFO - НАЧАЛО ИГРЫ - Space Marine: Brother Logius, Врагов: 2
+2026-02-09 22:31:02 - INFO - ============================================================
+2026-02-09 22:31:17 - INFO - space_marine (space_marine) кричит: "**"IGNIS GRATIA, IMPERATOR! FOR THE EMPEROR! BURN, HERETIC!"**"
+2026-02-09 22:31:28 - INFO - ============================================================
+2026-02-09 22:31:28 - INFO - НАЧАЛО ИГРЫ - Space Marine: Test Marine, Врагов: 1
+2026-02-09 22:31:28 - INFO - ============================================================
+2026-02-09 22:31:38 - INFO - ============================================================
+2026-02-09 22:31:38 - INFO - НАЧАЛО ИГРЫ - Space Marine: Debug Marine, Врагов: 1
+2026-02-09 22:31:38 - INFO - ============================================================
+2026-02-09 22:31:40 - INFO - ============================================================
+2026-02-09 22:31:40 - INFO - НАЧАЛО ИГРЫ - Space Marine: Final Test, Врагов: 1
+2026-02-09 22:31:40 - INFO - ============================================================
+2026-02-09 22:31:50 - INFO - ============================================================
+2026-02-09 22:31:50 - INFO - НАЧАЛО ИГРЫ - Space Marine: Simple Test, Врагов: 1
+2026-02-09 22:31:50 - INFO - ============================================================
+2026-02-09 22:31:57 - INFO - ============================================================
+2026-02-09 22:31:57 - INFO - НАЧАЛО ИГРЫ - Space Marine: Last Test, Врагов: 1
+2026-02-09 22:31:57 - INFO - ============================================================
+2026-02-09 22:32:18 - INFO - ============================================================
+2026-02-09 22:32:18 - INFO - НАЧАЛО ИГРЫ - Space Marine: Final Marine, Врагов: 1
+2026-02-09 22:32:18 - INFO - ============================================================
+2026-02-09 22:32:54 - INFO - ============================================================
+2026-02-09 22:32:54 - INFO - НАЧАЛО ИГРЫ - Space Marine: TestLogger, Врагов: 1
+2026-02-09 22:32:54 - INFO - ============================================================
+2026-02-09 22:32:54 - INFO - Раунд 1 - TestLogger (space_marine) атакует Tau Fire Warrior (tau). Бросок кубика: 4, Урон: 10, HP защитника: 14/24
+2026-02-09 22:33:09 - INFO - ============================================================
+2026-02-09 22:33:09 - INFO - НАЧАЛО ИГРЫ - Space Marine: FullTest, Врагов: 1
+2026-02-09 22:33:09 - INFO - ============================================================
+2026-02-09 22:33:09 - INFO - Раунд 2 - TestLogger (space_marine) атакует Tau Fire Warrior (tau). Бросок кубика: 1, Урон: 0, HP защитника: 14/24
+2026-02-09 22:33:10 - INFO - Раунд 3 - TestLogger (space_marine) атакует Tau Fire Warrior (tau). Бросок кубика: 4, Урон: 10, HP защитника: 4/24
+2026-02-09 22:33:12 - INFO - Раунд 4 - TestLogger (space_marine) атакует Tau Fire Warrior (tau). Бросок кубика: 4, Урон: 10, HP защитника: 0/24 - Tau Fire Warrior ПОБЕЖДЕН!
+2026-02-09 22:33:12 - INFO - ============================================================
+2026-02-09 22:33:12 - INFO - КОНЕЦ ИГРЫ - ПОБЕДА! (Раунд 4)
+2026-02-09 22:33:12 - INFO - ============================================================
+2026-02-09 22:33:13 - INFO - space_marine (space_marine) кричит: "**"FOR THE EMPEROR! VULPES MORITUR!"**"
+2026-02-09 22:33:57 - INFO - ============================================================
+2026-02-09 22:33:57 - INFO - НАЧАЛО ИГРЫ - Space Marine: Brother Titus, Врагов: 3
+2026-02-09 22:33:57 - INFO - ============================================================
+2026-02-09 22:34:17 - INFO - Раунд 1 - FullTest (space_marine) атакует Ork Boy (ork). Бросок кубика: 6, Урон: 12, HP защитника: 18/30
+2026-02-09 22:34:26 - INFO - Раунд 2 - FullTest (space_marine) атакует Ork Boy (ork). Бросок кубика: 3, Урон: 9, HP защитника: 9/30
+2026-02-09 22:35:52 - INFO - ============================================================
+2026-02-09 22:35:52 - INFO - НАЧАЛО ИГРЫ - Space Marine: Brother Titus, Врагов: 2
+2026-02-09 22:35:52 - INFO - ============================================================
+2026-02-09 22:35:55 - INFO - space_marine (space_marine) кричит: "AD MAJOREM DEI GLORIAM! For the Emperor!"
+2026-02-09 22:36:04 - INFO - ============================================================
+2026-02-09 22:36:04 - INFO - НАЧАЛО ИГРЫ - Space Marine: Demo Marine, Врагов: 1
+2026-02-09 22:36:04 - INFO - ============================================================
+2026-02-09 22:42:17 - INFO - ============================================================
+2026-02-09 22:42:17 - INFO - НАЧАЛО ИГРЫ - Space Marine: Test, Врагов: 1
+2026-02-09 22:42:17 - INFO - ============================================================
+2026-02-09 22:42:23 - INFO - Раунд 1 - Test (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 1, Урон: 0, HP защитника: 35/35
+2026-02-09 22:44:46 - INFO - Раунд 2 - Test (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 6, Урон: 12, HP защитника: 23/35
+2026-02-09 22:44:48 - INFO - Test (space_marine) кричит: "**EMPEROR PROTECTS! FOR THE IMPERIUM!**"
+2026-02-09 22:46:24 - INFO - ============================================================
+2026-02-09 22:46:24 - INFO - НАЧАЛО ИГРЫ - Space Marine: Test, Врагов: 1
+2026-02-09 22:46:24 - INFO - ============================================================
+2026-02-09 22:46:24 - INFO - Раунд 1 - Test (space_marine) атакует Tau Fire Warrior (tau). Бросок кубика: 5, Урон: 11, HP защитника: 13/24
+2026-02-09 22:46:25 - INFO - Test (space_marine) кричит: "**"DEUS VULT! FOR THE EMPEROR!"**"
+2026-02-09 23:19:07 - INFO - ============================================================
+2026-02-09 23:19:07 - INFO - НАЧАЛО ИГРЫ - Space Marine: Brother Titus, Врагов: 2
+2026-02-09 23:19:07 - INFO - ============================================================
+2026-02-09 23:19:12 - INFO - Раунд 1 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 2, Урон: 0, HP защитника: 35/35
+2026-02-09 23:19:55 - INFO - Раунд 2 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 1, Урон: 0, HP защитника: 35/35
+2026-02-09 23:20:21 - INFO - Раунд 3 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 4, Урон: 10, HP защитника: 25/35
+2026-02-09 23:20:22 - INFO - Brother Titus (space_marine) кричит: "**"DEUS VULT! For the Emperor!"**"
+2026-02-09 23:20:24 - INFO - Раунд 4 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 3, Урон: 9, HP защитника: 16/35
+2026-02-09 23:20:25 - INFO - Brother Titus (space_marine) кричит: "**"Imperium Victoris! For the Emperor!"**"
+2026-02-09 23:20:36 - INFO - Раунд 5 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 3, Урон: 9, HP защитника: 7/35
+2026-02-09 23:20:37 - INFO - Brother Titus (space_marine) кричит: "**"Pugno pro Imperatore! For the Emperor!"**"
+2026-02-09 23:20:48 - INFO - Раунд 6 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 6, Урон: 12, HP защитника: 0/35 - Tyranid Warrior ПОБЕЖДЕН!
+2026-02-09 23:20:49 - INFO - Brother Titus (space_marine) кричит: "**"PURGE THE ALIEN! FOR THE EMPEROR!"**"
+2026-02-09 23:20:58 - INFO - Раунд 6 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 5, Урон: 11, HP защитника: 24/35
+2026-02-09 23:20:59 - INFO - Brother Titus (space_marine) кричит: "**"Adeptus Astartes! For the Emperor!"**"
+2026-02-09 23:21:02 - INFO - Раунд 7 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 3, Урон: 9, HP защитника: 15/35
+2026-02-09 23:21:03 - INFO - Brother Titus (space_marine) кричит: ""Deus Astartes ! FOR THE EMPEROR!""
+2026-02-09 23:21:04 - INFO - Раунд 8 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 2, Урон: 0, HP защитника: 15/35
+2026-02-09 23:21:06 - INFO - Раунд 9 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 2, Урон: 0, HP защитника: 15/35
+2026-02-09 23:21:13 - INFO - Раунд 10 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 1, Урон: 0, HP защитника: 15/35
+2026-02-09 23:21:18 - INFO - Раунд 11 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 2, Урон: 0, HP защитника: 15/35
+2026-02-09 23:21:25 - INFO - Раунд 12 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 6, Урон: 12, HP защитника: 3/35
+2026-02-09 23:21:26 - INFO - Brother Titus (space_marine) кричит: "***"Imperator Vult! For the Emperor!"** – с триумфом кричит Космический Десантник, направляя свой клинок в яростном натиске.*"
+2026-02-09 23:21:36 - INFO - Раунд 13 - Brother Titus (space_marine) атакует Tyranid Warrior (tyranid). Бросок кубика: 6, Урон: 12, HP защитника: 0/35 - Tyranid Warrior ПОБЕЖДЕН!
+2026-02-09 23:21:36 - INFO - Brother Titus (space_marine) кричит: "**"DEUS VULT! FOR THE EMPEROR!"**"
+2026-02-09 23:21:36 - INFO - ============================================================
+2026-02-09 23:21:36 - INFO - КОНЕЦ ИГРЫ - ПОБЕДА! (Раунд 13)
+2026-02-09 23:21:36 - INFO - ============================================================
+2026-02-09 23:28:33 - INFO - ============================================================
+2026-02-09 23:28:33 - INFO - НАЧАЛО ИГРЫ - Space Marine: Brother Titus, Врагов: 2
+2026-02-09 23:28:33 - INFO - ============================================================
+2026-02-09 23:28:46 - INFO - Раунд 1 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 6, Урон: 12, HP защитника: 8/20
+2026-02-09 23:28:47 - INFO - Brother Titus (space_marine) кричит: "**"DEATH TO THE FALSE EMPEROR! PURGE THEM ALL!"**
+
+**(PERIMUS IMPERATORIS FALSIS! CADITE eos omnes!)**"
+2026-02-09 23:28:47 - INFO - Раунд 1 - Chaos Cultist (chaos_cultist) атакует Brother Titus (space_marine). Бросок кубика: 4, Урон: 7, HP защитника: 93/100
+2026-02-09 23:28:48 - INFO - Chaos Cultist (chaos_cultist) кричит: ""Хаос всемогущ! Ты упадешь, еретик!""
+2026-02-09 23:29:04 - INFO - Раунд 2 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 2, Урон: 0, HP защитника: 8/20
+2026-02-09 23:29:04 - INFO - Раунд 2 - Chaos Cultist (chaos_cultist) атакует Brother Titus (space_marine). Бросок кубика: 1, Урон: 0, HP защитника: 93/100
+2026-02-09 23:29:15 - INFO - Раунд 3 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 3, Урон: 9, HP защитника: 0/20 - Chaos Cultist ПОБЕЖДЕН!
+2026-02-09 23:29:16 - INFO - Brother Titus (space_marine) кричит: ""Vae victis! For the Emperor!""
+2026-02-09 23:29:25 - INFO - Раунд 3 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 1, Урон: 0, HP защитника: 20/20
+2026-02-09 23:29:25 - INFO - Раунд 3 - Chaos Cultist (chaos_cultist) атакует Brother Titus (space_marine). Бросок кубика: 2, Урон: 0, HP защитника: 93/100
+2026-02-09 23:29:29 - INFO - Раунд 4 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 4, Урон: 10, HP защитника: 10/20
+2026-02-09 23:29:30 - INFO - Brother Titus (space_marine) кричит: "**"FOR THE EMPEROR! HERSY SHALL BURN!"**"
+2026-02-09 23:29:30 - INFO - Раунд 4 - Chaos Cultist (chaos_cultist) атакует Brother Titus (space_marine). Бросок кубика: 6, Урон: 9, HP защитника: 84/100
+2026-02-09 23:29:32 - INFO - Chaos Cultist (chaos_cultist) кричит: ""Сила, что пожирает души, да отплатит тебе за твое жалкое упорство, еретик! Хаос восторжествует!""
+2026-02-09 23:30:15 - INFO - Раунд 5 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 2, Урон: 0, HP защитника: 10/20
+2026-02-09 23:30:15 - INFO - Раунд 5 - Chaos Cultist (chaos_cultist) атакует Brother Titus (space_marine). Бросок кубика: 3, Урон: 6, HP защитника: 78/100
+2026-02-09 23:30:17 - INFO - Chaos Cultist (chaos_cultist) кричит: ""Сгинь, жалкий слуга Слаанеш! Кровь твоя - дар Зичь! ВОТ ТЕБЕ!""
+2026-02-09 23:30:23 - INFO - Раунд 6 - Brother Titus (space_marine) атакует Chaos Cultist (chaos_cultist). Бросок кубика: 6, Урон: 12, HP защитника: 0/20 - Chaos Cultist ПОБЕЖДЕН!
+2026-02-09 23:30:24 - INFO - Brother Titus (space_marine) кричит: "**"FOR THE EMPEROR AND TERRA!"**"
+2026-02-09 23:30:24 - INFO - ============================================================
+2026-02-09 23:30:24 - INFO - КОНЕЦ ИГРЫ - ПОБЕДА! (Раунд 6)
+2026-02-09 23:30:24 - INFO - ============================================================
