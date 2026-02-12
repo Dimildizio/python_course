@@ -35,6 +35,7 @@ def generate_shout(character_type: CharacterType, situation: str, dice_roll: int
         httpx.HTTPError: При ошибке запроса к API
     """
     if not OPENROUTER_KEY:
+        print('[-] WARNING: no key!')
         # Fallback на предопределенные крики если ключ не установлен
         return _get_fallback_shout(character_type, is_attack_successful)
     
@@ -69,7 +70,7 @@ def generate_shout(character_type: CharacterType, situation: str, dice_roll: int
                 "X-Title": "Space Marine Game",
             },
             json={
-                "model": "google/gemini-2.5-flash-lite",
+                "model": "google/gemma-3n-e2b-it:free",
                 "messages": [
                     {
                         "role": "user",
@@ -82,9 +83,11 @@ def generate_shout(character_type: CharacterType, situation: str, dice_roll: int
         )
         # Проверяем статус, но не выбрасываем исключение - используем fallback
         if response.status_code != 200:
+            print("[-] RESPONSE FAILED", response)
             return _get_fallback_shout(character_type, is_attack_successful)
         
         result = response.json()
+        print(result)
         shout = result.get("choices", [{}])[0].get("message", {}).get("content", "").strip()
         
         if not shout:
